@@ -1,5 +1,9 @@
-|<a href="https://omnigestor.com"><img align="right" width="40" src="https://omnigestor.com/images/logo.png"></a>|CEO & Founder at Omnigestor|       
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+<img align="left" width="40" src="https://omnigestor.com/images/logo.png">
+
+### CEO & Founder at Omnigestor
+## Soluções criativas para melhorar o seu negócio
+
+
 
 <div style="display: inline_block">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dimersonmartins&show_icons=true&theme=nord"/>
