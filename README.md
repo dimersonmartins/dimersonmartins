@@ -1,4 +1,4 @@
-<img align="left" width="40" src="https://omnigestor.com/images/logo.png">
+<img align="left" width="80" src="https://omnigestor.com/images/logo.png">
 
 <dl>
   <dt>CEO & Founder at Omnigestor</dt>
