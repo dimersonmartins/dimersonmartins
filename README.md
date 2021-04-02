@@ -5,8 +5,6 @@
   <dd>Soluções criativas para melhorar o seu negócio.</dd>
 </dl>
 
-
-
 <br>
 
 <div style="display: inline_block">
