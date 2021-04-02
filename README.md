@@ -1,8 +1,9 @@
 <img align="left" width="40" src="https://omnigestor.com/images/logo.png">
 
-### CEO & Founder at Omnigestor
-## Soluções criativas para melhorar o seu negócio
-
+<dl>
+  <dt>CEO & Founder at Omnigestor</dt>
+  <dd>Soluções criativas para melhorar o seu negócio.</dd>
+</dl>
 
 
 <div style="display: inline_block">
