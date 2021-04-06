@@ -8,5 +8,6 @@
 <br>
 
 <div style="display: inline_block">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dimersonmartins&show_icons=true&theme=nord"/>
 
 </div>
